@@ -1,0 +1,24 @@
+{
+  "name": "graphql-getting-started",
+  "version": "1.0.0",
+  "description": "Getting started with graphql",
+  "scripts": {
+    "server": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmsstudio/graphql-getting-started.git"
+  },
+  "keywords": ["graphql"],
+  "author": "jmsstudio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmsstudio/graphql-getting-started/issues"
+  },
+  "homepage": "https://github.com/jmsstudio/graphql-getting-started#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.12.3"
+  }
+}
